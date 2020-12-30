@@ -1,5 +1,3 @@
 {
-	"cSpell.ignoreWords": [
-		"nanoid"
-	]
+  "cSpell.ignoreWords": ["graphiql", "nanoid", "graphql"]
 }
